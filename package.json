@@ -1,0 +1,23 @@
+{
+  "name": "dorime-bot",
+  "version": "1.0.0",
+  "description": "A simple discord bot.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nceon/dorime.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nceon/dorime/issues"
+  },
+  "homepage": "https://github.com/nceon/dorime#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security"
+  }
+}
